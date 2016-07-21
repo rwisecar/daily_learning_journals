@@ -1,0 +1,3 @@
+#LJ Code201 Day 03
+
+Today was HARD. For and while loops are not really intuitive for me, but I think I learned a lot. I worked closely with two of my classmates, and we were really able to help each other understand how the code worked. And Sam was right- teaching other people the things I know really solidified my understanding of those things. I also know that each time I crash my browser, or break my code, I'm learning something new-- even if it's only new debugging techniques. I know every day will probably be just as hard as today, but I am hopeful that I can keep up and hardwire these skills. 
