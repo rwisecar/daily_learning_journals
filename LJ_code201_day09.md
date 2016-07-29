@@ -1,0 +1,2 @@
+#LJ Day 09  
+Today I spent a lot of time building up my cookie store page and styling it with CSS. I have the backbone of what I want, but I think I need to spend a lot more time building out the functionality. The store, for example, needs a lot of work, and I think I can slim down the CSS by using classes, instead of IDs, because I have several components that are styled very similarly. It could be a lot DRYer. Lots more work to do.
