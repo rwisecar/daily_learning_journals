@@ -1,0 +1,3 @@
+#LJ Code 201 Day 12
+
+Day 12 was rough for me. I got stuck on a problem- keeping the first series of images from repeating in the next series of images- and spent the whole day trying to figure it out, at the expense of the actual assignment. I learned a few things about myself in the process. I can be really hard on myself when I feel like I'm failing, and really stubborn about not failing, as a result. Those are both things I can be better at. I'm writing this on the morning of Day 13, and I feel like I have a little more perspective about things. I'll always be failing. Today I just have to fail better. And learn when to put things aside for later. 
